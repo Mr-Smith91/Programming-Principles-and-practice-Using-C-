@@ -1,0 +1,1 @@
+This repository contains my completed exercises and practice projects from the book. Each section demonstrates key concepts and techniques I’ve learned while working through the material. The goal is to document my progress, reinforce my understanding, and share practical examples of how I applied what I’ve learned.
